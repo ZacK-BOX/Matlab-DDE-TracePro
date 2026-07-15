@@ -8,3 +8,13 @@
 上传的代码包括：建立连接、自动化阵列建模、光学追迹、光学分析、后处理等部分。
 
 有问题可以联系贴主1198323971@qq.com
+
+Due to the limited network resources, the poster encountered many difficulties in learning Matlab through DDE to control TracePro. However, they eventually achieved the basic control functions. The poster no longer engages in optical design. In line with the spirit of sharing on the Internet, they have now made the related code open source. They hope this will help those who come later to get started with TracePro automation and reduce the pain. 
+
+My learning channels: 1. Forums: "Wuliao Guangshi", "Guangxing Tianxia", etc., search with DDE; 2. CNKI Chinese papers, search with DDE and TracePro; 3. Other posts on TracePro's official website and Git; 4. Electronic materials sold on other platforms such as Taobao. Through AI learning and generating basic code. 
+
+Basic control method: Open both the Matlab and TracePro interfaces simultaneously, and then run the Matlab code. DDE connects to TracePro through four basic statements, and to achieve the specific functions of TracePro, refer to the macro command manual included in the software. 
+
+The uploaded code includes: connection establishment, automated array modeling, optical tracking, optical analysis, post-processing, etc. 
+
+If you have any questions, you can contact the poster at 1198323971@qq.com.

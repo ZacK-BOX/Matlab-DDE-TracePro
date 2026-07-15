@@ -9,7 +9,7 @@
 
 有问题可以联系贴主1198323971@qq.com
 
-───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+──────────────────────────────────────────────────────────────────────────────────────
 
 Due to the limited network resources, the poster encountered many difficulties in learning Matlab through DDE to control TracePro. However, they eventually achieved the basic control functions. The poster no longer engages in optical design. In line with the spirit of sharing on the Internet, they have now made the related code open source. They hope this will help those who come later to get started with TracePro automation and reduce the pain. 
 
